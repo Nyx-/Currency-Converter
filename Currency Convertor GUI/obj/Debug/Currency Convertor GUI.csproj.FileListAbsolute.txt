@@ -34,3 +34,6 @@ D:\Programming\Assignment 3\Currency Convertor GUI\Currency Convertor GUI\Curren
 D:\Programming\Assignment 3\Currency Convertor GUI\Currency Convertor GUI\Currency Convertor GUI\obj\Debug\Currency_Convertor_GUI.Form1.resources
 D:\Programming\Assignment 3\Currency Convertor GUI\Currency Convertor GUI\Currency Convertor GUI\obj\Debug\Currency_Convertor_GUI.Properties.Resources.resources
 D:\Programming\Assignment 3\Currency Convertor GUI\Currency Convertor GUI\Currency Convertor GUI\obj\Debug\Currency Convertor GUI.csproj.GenerateResource.Cache
+C:\Users\Megan\Google Drive\GitHub\Currency-Converter\Currency Convertor GUI\bin\Debug\Currency Convertor GUI.exe.config
+C:\Users\Megan\Google Drive\GitHub\Currency-Converter\Currency Convertor GUI\obj\Debug\Currency Convertor GUI.exe
+C:\Users\Megan\Google Drive\GitHub\Currency-Converter\Currency Convertor GUI\obj\Debug\Currency Convertor GUI.pdb
